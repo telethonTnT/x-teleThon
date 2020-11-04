@@ -1,5 +1,5 @@
 {
-  "name": "X-TELETHON ",
+  "name": "TNT ",
   "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/Xtelethon for any problems or support",
   "logo": "https://telegra.ph/file/e502a5d35eadd29b3ca73.jpg",
   "keywords": [
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Dark-Princ3/X-tra-Telegram/",
+  "repository": "https://github.com/telethonTnT/TNT/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
